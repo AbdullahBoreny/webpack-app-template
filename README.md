@@ -1,4 +1,12 @@
-template for webpack application
-run npm install to install package.json dependancies
-npm run dev to start development server
-npm build to build a bundle.js bundled file
+# Webpack Template
+
+A minimal Webpack setup for modern JavaScript projects.
+
+## Setup
+```bash
+-npm install
+Development
+-npm run dev
+Build
+-npm run build
+Generates a production-ready bundle.js inside the dist/ directory.
